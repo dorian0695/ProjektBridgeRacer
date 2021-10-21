@@ -1,0 +1,80 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - BlueGuy
+  - Platform1Brick
+  - BlueTowerBrick
+  - StairBrick
+  - FirstPlatform
+  - NextPlatforms
+  - SecondPlatform
+  - Platform2Brick
+  - BlueBrick
+  - RedBrick
+  - YellowBrick
+  - RedGuy
+  - GreyBrick
+  - Stairs3Platform1Bricks
+  - 3rdPointerPlatform1
+  - 1stPointerPlatform1
+  - 2ndPointerPlatform1
+  - Stairs2Platform1
+  - Stairs2Platform1Bricks
+  - Stairs1Platform1
+  - Stairs1Platform1Bricks
+  - TriggerPlatform2
+  - TriggerPlatform3
+  - Stairs2Platform2Bricks
+  - Stairs1Platform2
+  - Stairs3Platform2
+  - StairsPlatform3
+  - Stairs1Platform2Bricks
+  - Stairs3Platform2Bricks
+  - StairsPlatform3Bricks
+  - ThirdPlatform
+  - Platform3Brick
+  - 1stPointerPlatform2
+  - 2ndPointerPlatform2
+  - 3rdPointerPlatform2
+  - FinalPointerPlatform
+  - YellowGuy
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - PostProcessing
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
